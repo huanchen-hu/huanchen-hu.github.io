@@ -9,10 +9,10 @@ redirect_from:
 ---
 I am a researcher in astrophysics.
 
-:dizzy:Research Interest
+:dizzy: Research Interest
 ------
 * Neutron stars and pulsars
-* Tests of gravity theories (General relativity, alternative theories of gravity)
+* Tests of gravity theories (General relativity, alternative theories)
 * Gravitational waves
 * Pulsar timing array
 * Black holes
