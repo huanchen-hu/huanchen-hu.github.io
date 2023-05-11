@@ -1,7 +1,7 @@
 # Huanchen Hu
 This is Dr. Huanchen Hu's personal [homepage](https://huanchen-hu.github.io/).
 
-:dizzy:Research Interest
+:dizzy: Research Interest
 ------
 * Neutron stars and pulsars
 * Tests of gravity theories (General relativity, alternative theories of gravity)
