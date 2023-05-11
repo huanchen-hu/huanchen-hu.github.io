@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Huanchen Hu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Huanchen Hu
-This is Dr. Huanchen Hu's personal [homepage](https://huanchen-hu.github.io/).
+I am a researcher in astrophysics.
 
 :dizzy:Research Interest
 ------
