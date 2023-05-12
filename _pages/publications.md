@@ -13,7 +13,9 @@ To be updated...
 My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg).
 
 ### Leading author papers
-
+1. Gravitational signal propagation in the double pulsar studied with the MeerKAT telescope\
+   **H. Hu**, M. Kramer, D. J. Champion, N. Wex et al.\
+   *Astronomy & Astrophysics*, 2022, 667, A149 [[DOI](https://doi.org/10.1051/0004-6361/202244825)][[ADS](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.149H/abstract)][[arXiv](https://arxiv.org/abs/2209.11798)]
 
 ### Collaboration papers
 
