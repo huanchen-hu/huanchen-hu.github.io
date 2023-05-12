@@ -12,7 +12,7 @@ Conferences and meetings
    Talk: *[Taking gravity tests with the Double Pulsar to higher orders](https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/gr/session/16/contribution/3)*
 
 +  WE-Heraeus-Seminar on "Time and Clocks", Bad Honnef, February 27-March 3, 2023\
-   Poster: *Gravity experiments in strong fields using pulsars as clocks*
+   Poster: *[Gravity experiments in strong fields using pulsars as clocks](http://huanchen-hu.github.io/files/poster_time_and_clock_Hu.pdf)*
 
 +  Annual meeting of the German Astronomical Society, Bremen, September 12-16, 2022\
    Talk: *[Taking gravity tests with the Double Pulsar to the next level](https://ag2022.astronomische-gesellschaft.de/view_abstract.php?id=131)*
