@@ -4,7 +4,7 @@ This is Dr. Huanchen Hu's personal [homepage](https://huanchen-hu.github.io/).
 :dizzy: Research Interest
 ------
 * Neutron stars and pulsars
-* Tests of gravity theories (General relativity, alternative theories of gravity)
+* Testing gravity theories (General relativity, alternative theories)
 * Gravitational waves
 * Pulsar timing array
 * Black holes
