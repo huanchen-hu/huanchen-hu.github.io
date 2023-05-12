@@ -8,7 +8,10 @@ main:
     
   - title: "Projects"
     url: /projects/
-
+    
+  - title: "Gallery"
+    url: /Gallery/
+    
   #- title: "Software"
   #  url: /software/
     
