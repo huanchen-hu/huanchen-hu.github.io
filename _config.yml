@@ -9,7 +9,7 @@
 locale                   : "en-DE"
 title                    : "Huanchen Hu's homepage"
 title_separator          : "-"
-name                     : &name "Dr. Huanchen Hu"
+name                     : &name "Huanchen Hu"
 description              : &description "Postdoc Researcher at MPIfR"
 url                      : https://huanchen-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
