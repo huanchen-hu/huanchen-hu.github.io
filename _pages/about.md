@@ -26,18 +26,18 @@ I am a researcher in astrophysics.
 
 :mortar_board: Education
 ------
-* **Ph.D in Astrophysics , 10/2018 - 04/2022 (submission: 18/10/2022, examination: 18/04/2023)** \
+* **10/2018 - 04/2022, Ph.D in Astrophysics** (submission: 18/10/2022, examination: 18/04/2023) \
   International Max Planck Research School for Astronomy and Astrophysics, Max Planck Institut for Radio Astronomy\
   Rhenish Friedrich Wilhelm University of Bonn, Department of Physics/Astronomy
-* **M.Sc. AstroMundus – Erasmus Mundus Joint Master Degree in Astrophysics, 10/2016 - 09/2018**\
+* **10/2016 - 09/2018, M.Sc. AstroMundus – Erasmus Mundus Joint Master Degree in Astrophysics**\
   10/2016 - 02/2017: University of Innsbruck, Austria\
   03/2017 - 09/2017: University of Padova, Italy\
   10/2017 - 02/2018: University of Rome Tor Vergata, Italy\
   03/2018 - 09/2018: University of Göttingen, Germany\
-  Research project at Max Planck Institute for Solar System Research\
-  Thesis: *[Coupling of solar p and g modes](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2833765)*
-* **B.Sc. in Astronomy, Beijing Normal University, 09/2012 - 07/2016**
-* **Exchange semester, National University of Ireland, Maynooth, Ireland, 09/2015 - 01/2016**
+  Research project at Max Planck Institute for Solar System Research
+  
+* **09/2012 - 07/2016, B.Sc. in Astronomy, Beijing Normal University**
+* **09/2015 - 01/2016, Exchange semester, National University of Ireland, Maynooth, Ireland**
 
 :trophy: Honors and Awards
 ------
