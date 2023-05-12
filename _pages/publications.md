@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-To be updated...
-
 ## Thesis
 <b>Doctoral dissertation</b> (Rheinische Friedrich-Wilhelms-Universität Bonn, 2023)\
 <b>Title</b>: Gravity tests with pulsars using new-generation radio telescopes\
