@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My referred papers are listed in [this ADS library] (https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg)
+My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg)
 To be updated...
 
 {% if author.googlescholar %}
