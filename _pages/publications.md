@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Thesis
+Thesis
+------
 <b>Doctoral dissertation</b> (Rheinische Friedrich-Wilhelms-Universität Bonn, 2023)\
 <b>Title</b>: Gravity tests with pulsars using new-generation radio telescopes\
 <b>Supervisors</b>: Prof. Dr. Michael Kramer, Dr. David Champion
@@ -14,7 +15,8 @@ author_profile: true
 <b>Title</b>: [Coupling of solar p and g modes](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2833765)\
 <b>Supervisors</b>: Prof. Dr. Laurent Gizon, Dr. Vincent Böning
 
-## Referred papers 
+Referred papers
+------
 My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg).
 ### Leading contribution papers
 1. Gravitational signal propagation in the double pulsar studied with the MeerKAT telescope\
@@ -78,7 +80,8 @@ My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.ed
     B. B. P. Perera et al. (IPTA collaboration, including **H. Hu**)\
     *Monthly Notices of the Royal Astronomical Society*, 2019, 490, 4666-4687 [[DOI](https://doi.org/10.1093/mnras/stz2857)][[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4666P/abstract)][[arXiv](https://arxiv.org/abs/1909.04534)]  
 
-## Books
+Books
+------
 1. *[The Evolution of Physics](https://isbnsearch.org/isbn/9787514227185)* (Chinese Edition), Cultural Development Press, 2019\
    Authors: Albert Einstein and Leopold Infeld, Translator: **H. Hu**
    
