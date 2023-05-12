@@ -1,41 +1,21 @@
-My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg)
 To be updated...
 
----
-layout: archive
-title: "Thesis"
-permalink: /thesis/
-author_profile: true
----
+# Thesis
+<b>Doctoral dissertation</b> (Rheinische Friedrich-Wilhelms-Universität Bonn, 2023)\
+<b>Title</b>: Gravity tests with pulsars using new-generation radio telescopes\
+<b>Supervisors</b>: Prof. Dr. Michael Kramer, Dr. David Champion
 
----
-layout: archive
-title: "Leading author papers"
-permalink: /leadpapers/
-author_profile: true
----
+<b>Master thesis</b> (Universität Innsbruck / Georg-August-Universität Göttingen, Masterarbeit, 2018)\
+<b>Title</b>: [Coupling of solar p and g modes](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2833765)\
+<b>Supervisors</b>: Prof. Dr. Laurent Gizon, Dr. Vincent Böning
 
----
-layout: archive
-title: "Collaboration papers"
-permalink: /copapers/
-author_profile: true
----
+# Referred papers 
+My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.edu/user/libraries/F-uwfqs5SweTjz3cFKtoSg).
 
----
-layout: archive
-title: "Books"
-permalink: /books/
-author_profile: true
----
+### Leading author papers
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Collaboration papers
 
-{% include base_path %}
+# Books
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
