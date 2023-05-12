@@ -17,6 +17,10 @@ My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.ed
    **H. Hu**, M. Kramer, D. J. Champion, N. Wex et al.\
    *Astronomy & Astrophysics*, 2022, 667, A149 [[DOI](https://doi.org/10.1051/0004-6361/202244825)][[ADS](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.149H/abstract)][[arXiv](https://arxiv.org/abs/2209.11798)]
 
+2. Constraining the dense matter equation-of-state with radio pulsars\
+   **H. Hu**, M. Kramer, N. Wex, D. J. Champion, M. S. Kehl\
+   *Monthly Notices of the Royal Astronomical Society*, 2020, 497, 3118-3130 [[DOI](https://doi.org/10.1093/mnras/staa2107)][[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3118H/abstract)][[arXiv](https://arxiv.org/abs/2007.07725)]
+
 ### Collaboration papers
 
 # Books
