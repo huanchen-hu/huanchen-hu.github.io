@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher in astrophysics at [Max Planck Institut for Radio Astronomy](https://www.mpifr-bonn.mpg.de/2169/en), funded by MPG-CAS "LEGACY" collaboration on low-frequency gravitational wave astronomy. I am involved in [EPTA](http://http//www.epta.eu.org/), [IPTA](https://ipta4gw.org/), and [MeerTime](http://www.meertime.org/) collaborations.
+I am a researcher in astrophysics at [Max Planck Institut for Radio Astronomy](https://www.mpifr-bonn.mpg.de/2169/en), funded by MPG-CAS "LEGACY" collaboration on low-frequency gravitational wave astronomy. I am also involved in [EPTA](http://http//www.epta.eu.org/), [IPTA](https://ipta4gw.org/), and [MeerTime](http://www.meertime.org/) collaborations.
 
 :dizzy: Research Interest
 ------
