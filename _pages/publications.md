@@ -85,9 +85,9 @@ My referred papers are listed in [this ADS library](https://ui.adsabs.harvard.ed
    Authors: Albert Einstein and Leopold Infeld, Translator: **H. Hu**
    
 2. *[Ripples in Spacetime: Einstein, Gravitational Waves, and the Future of Astronomy](https://isbnsearch.org/isbn/9787508690629)*
-(Chinese Edition), CITIC Press Corporation, 2018
+(Chinese Edition), CITIC Press Corporation, 2018\
    Author: Govert Schilling, Translator: **H. Hu**
 
 3. *The Elephant in the Universe: Our Hundred-Year Search for Dark Matter* (Chinese
-Edition), CITIC Press Corporation, 2023 (in press)
+Edition), CITIC Press Corporation, 2023 (in press)\
    Author: Govert Schilling, Translator: **H. Hu**
